@@ -9,7 +9,7 @@ cd Termux-JDK8
 ```
 4.
 ```
-chmode +x JDK8.sh
+chmod +x JDK8.sh
 ```
 5.
 ```
