@@ -9,9 +9,13 @@ cd Termux-JDK8
 ```
 4.
 ```
-chmod +x JDK8.sh
+chmod +x INSTALL-JDK8
 ```
 5.
 ```
-./JDK8.sh
+./INSTALL-JDK8
+```
+6. one liner setup
+```
+git clone https://github.com/HYPER12755/Termux-JDK8.git && cd Termux-JDK8 && chmod +x INSTALL-JDK8 &&  ./INSTALL-JDK8 && cd ~ && rmf Termux-JDK8
 ```
